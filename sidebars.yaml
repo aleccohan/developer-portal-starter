@@ -42,6 +42,10 @@ training:
     expanded: false
     pages:
       - page: openapi/reference.page.yaml/*
+  - group: Playbook Dispatcher reference
+    expanded: false
+    pages:
+      - page: openapi/dispatcher.reference.page.yaml/*
 
   - group: Admin
     expanded: true
