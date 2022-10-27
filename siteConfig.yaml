@@ -29,7 +29,7 @@ stylesheets:
 nav:
 
   - label: Training exercises
-    page: developer-portal/index.md
+    page: developer-portal/testing.md
 
   - label: External docs
     icon: ./images/redocly-icon-white.png
